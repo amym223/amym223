@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm interested in building data-driven solutions that help businesses
+I'm interested in building data driven solutions that help businesses
 organise information, understand their operations, and make better decisions.
 
 My interests span data analytics, business intelligence, and application
@@ -25,8 +25,8 @@ can address them, and building practical tools that make information more
 accessible and useful.
 
 I'm particularly interested in developing straightforward, effective
-solutions that address real-world business needs, with an emphasis on
-usability, practical value, and thoughtful problem-solving.
+solutions that address real world business needs, with an emphasis on
+usability, practical value, and thoughtful problem solving.
 
 ---
 
@@ -73,7 +73,7 @@ information management and support better business decisions.
 
 ---
 
-## Selected Projects
+## Projects
 
 ### 01. Global Sales Profitability Dashboard
 
@@ -87,28 +87,6 @@ visual insights that help users explore performance across different
 dimensions.
 
 [Explore the project](https://github.com/amym223/global_sales_profitability_dashboard)
-
-### 02. Fleet Log Management System
-
-**Python | Streamlit | Google Sheets**
-
-A fleet management application designed to organise trip records,
-fuel purchases, and fuel tracking.
-
-The application brings operational information together to support
-monitoring, reporting, and more accessible record management.
-
-*Private business data and implementation details are not publicly shared.*
-
-### 03. Car Sales Data Solution
-
-**Business Data Management | Data Analysis**
-
-A business-focused project exploring how structured sales information
-can support reporting, information management, and operational
-decision-making.
-
-*Private business data is not publicly shared.*
 
 ---
 
