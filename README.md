@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="assets/profile-banner.png" alt="Amy Munjoma — Data Analyst | Business Intelligence & Data Solutions" width="100%">
+</div>
 
-# Amy Munjoma
-
-### Data Analyst | Business Intelligence & Data Solutions
+<br>
 
 *I build data driven solutions that help businesses understand performance, improve reporting, and make informed decisions.*
 
