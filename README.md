@@ -7,6 +7,8 @@
 *Turning data into insights. Building solutions for better decisions.*
 
 [GitHub](https://github.com/amym223)
+&nbsp; • &nbsp;
+[Email](mailto:munjomaamy@gmail.com)
 
 </div>
 
