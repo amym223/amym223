@@ -4,7 +4,7 @@
 
 ### Data Analyst | Business Intelligence & Data Solutions
 
-*I build data-driven solutions that help businesses understand performance, improve reporting, and make informed decisions.*
+*I build data driven solutions that help businesses understand performance, improve reporting, and make informed decisions.*
 
 <p>
   <span style="color:#702D3D;">━━━━━━</span>
@@ -107,15 +107,6 @@ can support reporting, data organisation, and operational decision-making.
 - Exploring APIs and application development.
 - Understanding deployment options for data-driven applications.
 
----
-
-<div align="center">
-
-### Data today. Better decisions tomorrow.
-
-*Building practical solutions, one project at a time.*
-
-<span style="color:#702D3D;">Made with curiosity and a love for problem-solving.</span>
 
 </div>
 
