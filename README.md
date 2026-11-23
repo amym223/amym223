@@ -1,6 +1,11 @@
-<div align="center">Amy Munjoma
+<div align="center">
+  <img src="github-banner.png" width="100%" alt="Abstract navy blue data landscape banner">
+</div>
+<div align="center">
+  
+  # Amy Munjoma
 
-Data Analytics | Business Intelligence | Data Solutions
+### Data Analytics | Business Intelligence | Data Solutions
 
 Turning data into practical solutions.
 
