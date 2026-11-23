@@ -1,110 +1,53 @@
-<div align="center">
+<div align="center">Amy Munjoma
 
-# Amy Munjoma
+Data Analytics | Business Intelligence | Data Solutions
 
-### Data Analyst | Business Intelligence & Data Solutions
+Turning data into practical solutions.
 
-*Turning data into insights. Building solutions for better decisions.*
+"Portfolio" (YOUR_PORTFOLIO_LINK) · "GitHub" (https://github.com/amym223) · "Email" (mailto:munjomaamy@gmail.com)
 
-[GitHub](https://github.com/amym223)
-&nbsp; • &nbsp;
-[Email](mailto:munjomaamy@gmail.com)
+</div>---
 
-</div>
+About Me
 
----
+I'm an aspiring data professional with a background in data science and an interest in using data to solve practical business problems.
 
-## About Me
-
-I'm interested in building data driven solutions that help businesses
-organise information, understand their operations, and make better decisions.
-
-My interests span data analytics, business intelligence, and application
-development. I enjoy understanding business problems, exploring how data
-can address them, and building practical tools that make information more
-accessible and useful.
-
-I'm particularly interested in developing straightforward, effective
-solutions that address real world business needs, with an emphasis on
-usability, practical value, and thoughtful problem solving.
+My interests include data analysis, business intelligence, database design, and developing practical applications that simplify information management and reporting.
 
 ---
 
-## What I Do
+Technical Skills
 
-**Data Analysis & Business Intelligence**
+Data & Analytics
+Excel · Power BI · DAX
 
-Exploring data, identifying meaningful patterns, and developing dashboards
-that help people understand business performance.
+Programming
+Python · Pandas
 
-**Data-Driven Applications**
+Databases
+SQL · Database Design
 
-Building applications that bring information together, simplify workflows,
-and make operational data easier to manage and access.
+Application Development
+Streamlit
 
-**Business Data Solutions**
+Web Development
+HTML · CSS
 
-Exploring how data structures, databases, and technology can improve
-information management and support better business decisions.
-
----
-
-## Technical Toolkit
-
-### Analytics & Business Intelligence
-
-![Excel](https://img.shields.io/badge/Excel-702D3D?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-C58F98?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-702D3D?style=flat-square&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-C58F98?style=flat-square&logo=r&logoColor=white)
-
-### Programming & Application Development
-
-![Python](https://img.shields.io/badge/Python-702D3D?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-C58F98?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-702D3D?style=flat-square&logo=streamlit&logoColor=white)
-
-### Data Management & Development Tools
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-C58F98?style=flat-square&logo=googlesheets&logoColor=white)
-![Git](https://img.shields.io/badge/Git-702D3D?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-C58F98?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-702D3D?style=flat-square&logo=visualstudiocode&logoColor=white)
+Tools
+Google Sheets · Git · GitHub
 
 ---
 
-## Projects
+Featured Projects
 
-### 01. Global Sales Profitability Dashboard
-
-**Power BI | Business Intelligence | Data Visualisation**
-
-An interactive dashboard exploring global sales, profitability, product
-performance, and customer segments.
-
-The project demonstrates how business data can be transformed into
-visual insights that help users explore performance across different
-dimensions.
-
-[Explore the project](https://github.com/amym223/global_sales_profitability_dashboard)
+Project| Description| Technologies
+Fleet Log Manager| An application for managing fleet operations, trip records, and fuel data.| Python, Streamlit, Google Sheets
+Mentorship Management System| A data management application for organising mentorship records and appointments.| Python, Streamlit, Google Sheets
+Car Sales Log System| A structured system for managing vehicle sales and business records.| Google Sheets, Database Design
+Power BI Sales Dashboard| An interactive dashboard exploring sales performance, profitability, and business trends.| Power BI, DAX
 
 ---
 
-## Currently Exploring
-
-- Developing my Python and data analysis skills.
-- Learning more about relational databases and data modelling.
-- Exploring APIs and application development.
-- Expanding my understanding of data science and machine learning.
-- Exploring how different technologies can work together to build
-  practical, maintainable data solutions.
-
----
-
-<div align="center">
-
-### Data today. Better decisions tomorrow.
-
-*Building practical solutions, one project at a time.*
+<div align="center">Building, learning, and exploring one project at a time.
 
 </div>
