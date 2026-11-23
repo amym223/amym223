@@ -38,13 +38,33 @@ Google Sheets · Git · GitHub
 
 ---
 
-Featured Projects
+## Featured Projects
 
-Project| Description| Technologies
-Fleet Log Manager| An application for managing fleet operations, trip records, and fuel data.| Python, Streamlit, Google Sheets
-Mentorship Management System| A data management application for organising mentorship records and appointments.| Python, Streamlit, Google Sheets
-Car Sales Log System| A structured system for managing vehicle sales and business records.| Google Sheets, Database Design
-Power BI Sales Dashboard| An interactive dashboard exploring sales performance, profitability, and business trends.| Power BI, DAX
+### Fleet Log Manager
+A fleet management application for organising trip records, fuel purchases, and vehicle performance data.
+
+`Python` `Streamlit` `Google Sheets`
+
+---
+
+### Mentorship Management System
+An application for managing mentorship records, student information, documentation, and appointments.
+
+`Python` `Streamlit` `Google Sheets`
+
+---
+
+### Car Sales Log System
+A structured data management system for organising vehicle sales and business records.
+
+`Google Sheets` `Database Design`
+
+---
+
+### Power BI Sales Dashboard
+An interactive dashboard exploring sales performance, profitability, product trends, and business insights.
+
+`Power BI` `DAX` `Data Visualisation`
 
 ---
 
