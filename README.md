@@ -4,7 +4,7 @@ Data Analytics | Business Intelligence | Data Solutions
 
 Turning data into practical solutions.
 
-"Portfolio" (YOUR_PORTFOLIO_LINK) · "GitHub" (https://github.com/amym223) · "Email" (mailto:munjomaamy@gmail.com)
+"Portfolio" (https://portfolio.munjomaamy.workers.dev/#projects) · "GitHub" (https://github.com/amym223) · "Email" (mailto:munjomaamy@gmail.com)
 
 </div>---
 
