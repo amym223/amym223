@@ -8,7 +8,7 @@ Turning data into practical solutions.
 
 </div>---
 
-About Me
+## About Me
 
 I'm an aspiring data professional with a background in data science and an interest in using data to solve practical business problems.
 
@@ -16,7 +16,7 @@ My interests include data analysis, business intelligence, database design, and 
 
 ---
 
-Technical Skills
+## Technical Skills
 
 Data & Analytics
 Excel · Power BI · DAX
