@@ -12,7 +12,7 @@ Turning data into practical solutions.
 # Portfolio
 (https://portfolio.munjomaamy.workers.dev/#projects) ·
 
-</div>---
+</div>
 
 ## About Me
 
